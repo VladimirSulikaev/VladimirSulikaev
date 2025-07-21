@@ -1,16 +1,35 @@
-## Hi there 👋
+![tong-wei-lofii-n-4](https://github.com/user-attachments/assets/09816899-0ae2-4cc3-b85b-3e934862b2b8)
 
-<!--
-**VladimirSulikaev/VladimirSulikaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет, я Вова 👋
+С анализом данных я познакомился ещё во время учёбы, появился интерес к Excel и его функционалу на парах по информатике и статистике. Долгое время это изучал, осваивал новые для меня инструменты, впоследствии стал работать в аналитике, за полгода дошёл до мидла в AdTech отделе.
 
-Here are some ideas to get you started:
+Интерес к оптимизации повседневных задач привел меня к Google Sheets и Python. На их основе я разработал интерактивный дэшборд для своей команды, систему автоматических выставлений задач и фидбеков по качеству привлекаемой аудитории. Во время проектной работы занимался анализом e-commerce и commtech, от создания таблиц и автоматизации обновления витрин до их визуализации и интерпретации. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Из увлечений играю на электронной и акустической гитаре с 2020 года 🎸 гоняю на симуляторе в Assetto Corsa и Dirt Rally 🚘
+
+## Инструменты</h2>
+
+<div align="center">
+  
+![Python](https://img.shields.io/badge/-Python-0b0038?style=for-the-badge&logo=python&logoColor=3c78a9)
+![Pandas](https://img.shields.io/badge/pandas-0b0038?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0b0038?style=for-the-badge&logo=scipy&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-0b0038?style=for-the-badge&logo=numpy&logoColor=4c74cc)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0b0038?style=for-the-badge&logo=Apache%20Airflow&logoColor=e4351d)
+![SQL](https://img.shields.io/badge/SQL-0b0038?style=for-the-badge&logo=sql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-0b0038?style=for-the-badge&logo=clickhouse&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0038?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-0b0038?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![Redash](https://img.shields.io/badge/Redash-0b0038?style=for-the-badge&logo=redash&logoColor=white)
+
+</div>
+
+## Контакты
+<div align="center">
+  
+[![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vladimir_sulikaev)
+[![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](mailto:vladimir@sulikaev.ru)
+
+</div>
+
+## Мои проекты 👇
