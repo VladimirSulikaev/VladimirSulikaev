@@ -25,7 +25,12 @@
 </div>
 
 <div align="center"">
-    <img src=http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VladimirSulikaev&theme=tokyonight" style="margin: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VladimirSulikaev&theme=tokyonight"
+      style="margin: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VladimirSulikaev&theme=tokyonight&utcOffset=8"
+      style="margin: 10px;">
+  
+</div>
 
 </div>
 
