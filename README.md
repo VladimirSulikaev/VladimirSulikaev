@@ -24,6 +24,11 @@
 
 </div>
 
+<div align="center"">
+    <img src=http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VladimirSulikaev&theme=tokyonight" style="margin: 10px;">
+
+</div>
+
 ## Контакты
 <div align="center">
   
