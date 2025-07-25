@@ -30,6 +30,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vladimir_sulikaev)
 [![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](mailto:vladimir@sulikaev.ru)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bbafu5yz74iwudcaxcvog6ll5i&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 </div>
 
 ## Мои проекты 👇
