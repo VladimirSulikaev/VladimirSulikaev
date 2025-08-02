@@ -25,6 +25,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI%20/%20Superset%20/%20Tableau-0b0038?style=for-the-badge&logo=Google%20Analytics&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-0b0038?style=for-the-badge&logo=DBeaver&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0b0038?style=for-the-badge&logo=Jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0b0038?style=for-the-badge&logo=Git&logoColor=white)
 
 </div>
 
