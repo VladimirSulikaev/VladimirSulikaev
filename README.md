@@ -7,7 +7,7 @@
 
 Из увлечений играю на электронной и акустической гитаре с 2020 года 🎸 гоняю на симуляторе в Assetto Corsa и Dirt Rally 🚘
 
-## Инструменты</h2>
+## 💻 Инструменты</h2>
 
 <div align="center">
   
@@ -16,17 +16,18 @@
 ![SciPy](https://img.shields.io/badge/SciPy-0b0038?style=for-the-badge&logo=scipy&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-0b0038?style=for-the-badge&logo=numpy&logoColor=4c74cc)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0b0038?style=for-the-badge&logo=Apache%20Airflow&logoColor=e4351d)
-![Excel](https://img.shields.io/badge/Excel-0b0038?style=for-the-badge&logo=excel&logo=sql)
+![Excel](https://img.shields.io/badge/Excel-0b0038?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-0b0038?style=for-the-badge&logo=clickhouse&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0038?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-0b0038?style=for-the-badge&logo=jupyter&logoColor=F37626)
 ![Redash](https://img.shields.io/badge/Redash-0b0038?style=for-the-badge&logo=redash&logoColor=white)
-![Metabase](https://img.shields.io/badge/Metabase-0b0038?style=for-the-badge&logo=Metabase&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI%20/%20Superset%20/%20Tableau-0b0038?style=for-the-badge&logo=Google%20Analytics&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-0b0038?style=for-the-badge&logo=DBeaver&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0b0038?style=for-the-badge&logo=Jira&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0b0038?style=for-the-badge&logo=Git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-0b0038?style=for-the-badge&logo=GitLab&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-0b0038?style=for-the-badge&logo=metabase&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-0b0038?style=for-the-badge&logo=power-bi&logoColor=white)
+![Superset](https://img.shields.io/badge/Superset-0b0038?style=for-the-badge&logo=apache-superset&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-0b0038?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0b0038?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0b0038?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-0b0038?style=for-the-badge&logo=gitlab&logoColor=white)
 
 </div>
 
