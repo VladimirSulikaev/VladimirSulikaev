@@ -21,6 +21,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0038?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-0b0038?style=for-the-badge&logo=jupyter&logoColor=F37626)
 ![Redash](https://img.shields.io/badge/Redash-0b0038?style=for-the-badge&logo=redash&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-0b0038?style=for-the-badge&logo=Metabase&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI%20/%20Superset%20/%20Tableau-0b0038?style=for-the-badge&logo=Google%20Analytics&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-0b0038?style=for-the-badge&logo=DBeaver&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0b0038?style=for-the-badge&logo=Jira&logoColor=white)
