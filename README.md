@@ -21,6 +21,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0038?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-0b0038?style=for-the-badge&logo=jupyter&logoColor=F37626)
 ![Redash](https://img.shields.io/badge/Redash-0b0038?style=for-the-badge&logo=redash&logoColor=white)
+![Redash](https://img.shields.io/badge/PowerBI-0b0038?style=for-the-badge&logo=powerbi&logoColor=white)
 
 </div>
 
