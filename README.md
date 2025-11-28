@@ -28,6 +28,8 @@
 ![Jira](https://img.shields.io/badge/Jira-0b0038?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0b0038?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-0b0038?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-0b0038?style=for-the-badge&logo=api&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-0b0038?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
