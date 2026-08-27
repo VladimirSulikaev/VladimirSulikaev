@@ -1,38 +1,50 @@
-<img width="1250" height="500" alt="vladimir-sulikaev-analytics-engineer" src="https://github.com/user-attachments/assets/b11fdc94-d5a7-43f7-a036-63127c0cddae" />
+<div align="center">
+  <img width="1250" height="500" alt="Vladimir Sulikaev — Analytics Engineer" src="https://github.com/user-attachments/assets/b11fdc94-d5a7-43f7-a036-63127c0cddae">
+</div>
 
 # Привет, я Вова 👋
-Я инженер аналитики с опытом в AdTech и In-app маркетинге.
-Сейчас специализируюсь на построении аналитических систем с нуля, автоматизации всего что касается данных и работы в бизнес-направлении самой аналитики.
 
-Я разрабатываю систему аналитики, перекрываю функции отдела аналитики, сокращаю ручную работу, отвечаю за отчётность и результаты для масштабирования или сокращения клиентов.
+Я **Analytics Engineer** с опытом в **AdTech** и **In-app маркетинге**.
 
-В свободное время играю на гитаре 🎸 и увлекаюсь автосимуляторами (Assetto Corsa, Dirt Rally) 🚘
+Строю аналитические системы с нуля, автоматизирую всё, что связано с данными, и работаю на стыке инженерии и бизнес-аналитики. Развиваю систему аналитики, отвечаю за отчётность и помогаю принимать решения о масштабировании или сокращении клиентов — без бесконечной ручной работы.
 
-## 💻 Инструменты</h2>
+Когда закрываю ноутбук играю на гитаре 🎸 и гоняю в **Assetto Corsa** и **Dirt Rally** 🚘
 
-<div align="center">
-  
-![Python](https://img.shields.io/badge/-Python-0b0038?style=for-the-badge&logo=python&logoColor=3c78a9)
-![Pandas](https://img.shields.io/badge/pandas-0b0038?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0b0038?style=for-the-badge&logo=scipy&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-0b0038?style=for-the-badge&logo=numpy&logoColor=4c74cc)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0b0038?style=for-the-badge&logo=Apache%20Airflow&logoColor=e4351d)
-![Excel](https://img.shields.io/badge/Excel-0b0038?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-0b0038?style=for-the-badge&logo=clickhouse&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0038?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-0b0038?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![Redash](https://img.shields.io/badge/Redash-0b0038?style=for-the-badge&logo=redash&logoColor=white)
-![Metabase](https://img.shields.io/badge/Metabase-0b0038?style=for-the-badge&logo=metabase&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-0b0038?style=for-the-badge&logo=power-bi&logoColor=white)
-![Superset](https://img.shields.io/badge/Superset-0b0038?style=for-the-badge&logo=apache-superset&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-0b0038?style=for-the-badge&logo=dbeaver&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0b0038?style=for-the-badge&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0b0038?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-0b0038?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitLab](https://img.shields.io/badge/API-0b0038?style=for-the-badge&logo=api&logoColor=white)
-![GitLab](https://img.shields.io/badge/OpenAI-0b0038?style=for-the-badge&logo=openai&logoColor=white)
+---
 
-</div>
+## ⚙️ Стек
+
+**Данные и разработка**
+
+![Python](https://img.shields.io/badge/Python-0b0038?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0b0038?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0b0038?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0b0038?style=flat-square&logo=scipy&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-0b0038?style=flat-square&logo=apacheairflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0038?style=flat-square&logo=postgresql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-0b0038?style=flat-square&logo=clickhouse&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0b0038?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-0b0038?style=flat-square&logo=openai&logoColor=white)
+
+**Аналитика и BI**
+
+![Google Data Studio](https://img.shields.io/badge/Google_Data_Studio-0b0038?style=flat-square&logo=googledatastudio&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-0b0038?style=flat-square&logo=powerbi&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Apache_Superset-0b0038?style=flat-square&logo=apachesuperset&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-0b0038?style=flat-square&logo=metabase&logoColor=white)
+![Redash](https://img.shields.io/badge/Redash-0b0038?style=flat-square&logo=redash&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-0b0038?style=flat-square&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-0b0038?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Рабочие инструменты**
+
+![Asana](https://img.shields.io/badge/Asana-0b0038?style=flat-square&logo=asana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0b0038?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-0b0038?style=flat-square&logo=gitlab&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-0b0038?style=flat-square&logo=dbeaver&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0b0038?style=flat-square&logo=jira&logoColor=white)
+
+---
 
 <div align="center"">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VladimirSulikaev&theme=tokyonight"
@@ -48,7 +60,7 @@
 <div align="center">
   
 [![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vladimir_sulikaev)
-[![Mail](https://img.shields.io/badge/Mail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](mailto:v.simplerl@yandex.ru)
+[![Mail](https://img.shields.io/badge/Mail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](mailto:vladimir@sulikaev.ru)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bbafu5yz74iwudcaxcvog6ll5i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
