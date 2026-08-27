@@ -48,7 +48,7 @@
 <div align="center">
   
 [![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vladimir_sulikaev)
-[![Mail](https://img.shields.io/badge/Mail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](mailto:vladimir@sulikaev.ru)
+[![Mail](https://img.shields.io/badge/Mail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](mailto:v.simplerl@yandex.ru)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bbafu5yz74iwudcaxcvog6ll5i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
