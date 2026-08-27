@@ -1,4 +1,4 @@
-![Дизайн 3d](https://github.com/user-attachments/assets/7e2452d1-c969-4d41-984a-799a532ef9e6)
+<img width="1250" height="500" alt="vladimir-sulikaev-analytics-engineer" src="https://github.com/user-attachments/assets/b11fdc94-d5a7-43f7-a036-63127c0cddae" />
 
 # Привет, я Вова 👋
 Я инженер аналитики с опытом в AdTech и In-app маркетинге.
